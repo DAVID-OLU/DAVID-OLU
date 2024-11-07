@@ -15,11 +15,9 @@
 ---
 ### About Me
 
-- I'm a web developer and I use **Django**
+- I'm an aspiring software engineer.
 
-- I am mostly self-taught & been a programmer has been an amazing journey for me as I get to discover and explore new things in this world of science and technology.
-
-- I am a professional Badminton coach & athlete 
+- Fun thing about me - I was a professional Badminton athlete for the international team.
 
 <br>
 
