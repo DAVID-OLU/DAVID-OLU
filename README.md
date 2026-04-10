@@ -1,10 +1,8 @@
 ### Hi there <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, welcome to my profile.
 
 ---
-<h1 align="center">I'm David Olu</h1>
+<h1 align="center">I'm David</h1>
 
-<p align="left"> <img src="./mypic.png" alt="myphoto" /> </p>
-<br>
 
 ---
 
